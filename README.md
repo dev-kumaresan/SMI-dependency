@@ -1,7 +1,7 @@
 # Release
 Dependency for social media real-time information.
 
-* Instagram <font color="green"><h1>*</h1></font> <br>
+* Instagram <h1><font color="green">*/font></h1> <br>
 * Facebook
 * LinkedIn
 * Github
