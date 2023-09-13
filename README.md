@@ -1,6 +1,12 @@
 # Release
 Dependency for social media real-time information.
 
+* Instagram <font coolor="green"><h1>*</h1></font> <br>
+* Facebook
+* LinkedIn
+* Github
+
+  
 # Deployment Steps
 * click this link - <a href="https://github.com/dev-kumaresan/SMI/releases/tag/v.0.0.0">Social Media Intelligence v.0.0.0</a> 
 * Scroll Down, Under Assets, Download SocialMediaIntelligence.jar File by clicking it.
