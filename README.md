@@ -1,5 +1,5 @@
-# SMI
-library for social media real-time information.
+# Release
+dependency for social media real-time information.
 
 #Deployment Steps :-
 * click this link - <a href="https://github.com/dev-kumaresan/SMI/releases/tag/v.0.0.0">Social Media Intelligence v.0.0.0</a> 
