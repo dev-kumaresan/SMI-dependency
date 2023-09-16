@@ -1,5 +1,7 @@
 # Release
 Dependency for social media real-time information.
+[![](https://jitpack.io/v/dev-kumaresan/SMI-dependency.svg)](https://jitpack.io/#dev-kumaresan/SMI-dependency)
+
 
 * Instagram - (v.0.0.0)
 * Facebook 
